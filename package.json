@@ -21,6 +21,7 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "build": "tsup",
+    "build-docs": "typedoc",
     "dev": "tsup --watch",
     "prepack": "tsup"
   },
