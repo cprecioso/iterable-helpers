@@ -1,6 +1,6 @@
 {
   "name": "@cprecioso/iterable-helpers",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper functions for iterables",
   "repository": "https://github.com/cprecioso/iterable-helpers.git",
   "author": "Carlos Precioso <github@precioso.design>",
