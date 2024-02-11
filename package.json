@@ -1,5 +1,10 @@
 {
   "name": "@cprecioso/iterable-helpers",
+  "version": "1.0.0",
+  "description": "Helper functions for iterables",
+  "repository": "https://github.com/cprecioso/iterable-helpers.git",
+  "author": "Carlos Precioso <github@precioso.design>",
+  "license": "ISC",
   "packageManager": "yarn@4.1.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
