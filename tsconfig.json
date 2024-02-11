@@ -1,0 +1,7 @@
+{
+  "extends": "@cprecioso/tsconfig/bundler",
+  "include": ["src/**/*"],
+  "compilerOptions": {
+    "stripInternal": true
+  }
+}
